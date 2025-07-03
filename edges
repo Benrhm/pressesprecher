@@ -1,14 +1,14 @@
 from ,to ,relation,time
-wilhelm,seibert,nachfolge_regierungssprecher,2010
-seibert,hebestreit,nachfolge_regierungssprecher,2021
-hebestreit,kornelius,nachfolge_regierungssprecher,2025
-wilhelm,vater,gemeinsam_bpa,2006-2009
-wilhelm,saphoerster-heimbach,gemeinsam_bpa,2010
-wilhelm,steegmans,gemeinsam_bpa,2009-2010
-seibert,saphoerster-heimbach,gemeinsam_bpa,2010-2013
-seibert,steegmans,gemeinsam_bpa,2010-2011
-seibert,streiter,gemeinsam_bpa,2011-2018
-saphoerster-heimbach,steegmans,gemeinsam_bpa,2010
-hebestreit,kornelius,gemeinsam_journalismus,2000-2010
-seibert,hebestreit,gemeinsam_journalismus,2000-2010
-kornelius ,seibert,gemeinsam_journalismus,2000-2010
+uw61,ss60,nachfolge_regierungssprecher,2010
+ss60,sh72,nachfolge_regierungssprecher,2021
+sh72,sk65,nachfolge_regierungssprecher,2025
+uw61,kv46,gemeinsam_bpa,2006-2009
+uw61,ssh62,gemeinsam_bpa,2010
+uw61,cs71,gemeinsam_bpa,2009-2010
+ss60,ssh62,gemeinsam_bpa,2010-2013
+ss60,cs71,gemeinsam_bpa,2010-2011
+ss60,gs55,gemeinsam_bpa,2011-2018
+ssh62,cs71,gemeinsam_bpa,2010
+sh72,sk65,gemeinsam_journalismus,2000-2010
+ss60,sh72,gemeinsam_journalismus,2000-2010
+sk65,ss60,gemeinsam_journalismus,2000-2010
