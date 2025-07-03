@@ -1,7 +1,7 @@
 from ,to ,relation,time
-wilhelm,seibert,nachfolge_regierungssprecher,NA
-seibert,hebestreit,nachfolge_regierungssprecher,NA
-hebestreit,kornelius,nachfolge_regierungssprecher,NA
+wilhelm,seibert,nachfolge_regierungssprecher,NaN
+seibert,hebestreit,nachfolge_regierungssprecher,NaN
+hebestreit,kornelius,nachfolge_regierungssprecher,NaN
 wilhelm,vater,gemeinsam_bpa,2006-2009
 wilhelm,saphoerster-heimbach,gemeinsam_bpa,2010
 wilhelm,steegmans,gemeinsam_bpa,2009-2010
