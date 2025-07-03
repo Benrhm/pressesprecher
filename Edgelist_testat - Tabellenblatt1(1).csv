@@ -1,0 +1,15 @@
+,,,
+from ,to ,relation,time
+wilhelm,seibert,nachfolge_regierungssprecher,
+seibert,hebestreit,nachfolge_regierungssprecher,
+hebestreit,kornelius,nachfolge_regierungssprecher,
+wilhelm,vater,gemeinsam_bpa,2006-2009
+wilhelm,saphoerster-heimbach,gemeinsam_bpa,2010
+wilhelm,steegmans,gemeinsam_bpa,2009-2010
+seibert,saphoerster-heimbach,gemeinsam_bpa,2010-2013
+seibert,steegmans,gemeinsam_bpa,2010-2011
+seibert,streiter,gemeinsam_bpa,2011-2018
+saphoerster-heimbach,steegmans,gemeinsam_bpa,2010
+hebestreit,kornelius,gemeinsam_journalismus,2000-2010
+seibert,hebestreit,gemeinsam_journalismus,2000-2010
+kornelius ,seibert,gemeinsam_journalismus,2000-2010
