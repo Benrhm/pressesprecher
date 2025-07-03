@@ -2,8 +2,8 @@ id,name,type,partei,education,journalist
 uw61,wilhelm,1,csu,jura,TRUE
 ss60,seibert,1,cdu,jura,TRUE
 sh72,hebestreit,1,spd,politik,TRUE
-sk65,kornelius,1,jura,TRUE
+sk65,kornelius,1,keine,jura,TRUE
 kv46,vater,1,spd,politik,TRUE
 cs71,steegmans,1,fdp,politik,TRUE
 ssh62,saphoerster-heimbach,1,cdu,germanistik,FALSE
-gs55,streiter,1,politik,TRUE
+gs55,streiter,1,keine,politik,TRUE
