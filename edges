@@ -1,4 +1,4 @@
-from ,to ,relation,time
+from,to,relation,time
 uw61,ss60,nachfolge_regierungssprecher,2010
 ss60,sh72,nachfolge_regierungssprecher,2021
 sh72,sk65,nachfolge_regierungssprecher,2025
